@@ -1,0 +1,13 @@
+
+#ifndef ASSESSMENTOOP_ATTRIBUTE_HPP
+#define ASSESSMENTOOP_ATTRIBUTE_HPP
+
+
+class Attribute {
+
+
+
+};
+
+
+#endif //ASSESSMENTOOP_ATTRIBUTE_HPP

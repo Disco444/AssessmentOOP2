@@ -1,0 +1,10 @@
+# ninja log v5
+158	1602	6973843386447329	CMakeFiles/AssessmentOOP.dir/End.cpp.obj	e74fe3f3e8aec477
+85	1170	6973848100421191	CMakeFiles/AssessmentOOP.dir/contacts.cpp.obj	e45d749e57a7d60d
+12	1582	6979242700294496	CMakeFiles/AssessmentOOP.dir/main.cpp.obj	9551473455e08931
+11	1468	6973964237794849	CMakeFiles/AssessmentOOP.dir/Start.cpp.obj	d2b5751910c87056
+1584	2889	6979242713251539	AssessmentOOP.exe	25f5ffbcd1c338f9
+120	1186	6976487911328616	CMakeFiles/AssessmentOOP.dir/Attribute.cpp.obj	cc482e7438ffcb5d
+9	721	6979243021837023	build.ninja	70ed3bff39de4c6
+9	798	6976487907446116	CMakeFiles/AssessmentOOP.dir/Element.cpp.obj	c6c63ae938c01c6b
+205	1594	6976487915400314	CMakeFiles/AssessmentOOP.dir/Index.cpp.obj	a09c6bb0ac835979

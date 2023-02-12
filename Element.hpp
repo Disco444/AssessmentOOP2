@@ -1,0 +1,13 @@
+
+#ifndef ASSESSMENTOOP_ELEMENT_HPP
+#define ASSESSMENTOOP_ELEMENT_HPP
+
+
+class Element {
+
+
+
+};
+
+
+#endif //ASSESSMENTOOP_ELEMENT_HPP
