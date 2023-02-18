@@ -12,7 +12,6 @@ class FileReader {
 public:
     FileReader();  // Constructor
     void read();
-//    void print();
     std::vector<std::string> getLines();  // Vector
 
 private:

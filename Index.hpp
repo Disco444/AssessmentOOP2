@@ -1,14 +1,19 @@
-//
-// Created by david on 06/02/2023.
-//
 
 #ifndef ASSESSMENTOOP_INDEX_HPP
 #define ASSESSMENTOOP_INDEX_HPP
 
 
-class Index {
+#include "Webpage.h"
 
+class Index: public Webpage {
 
+public:
+     Index();
+     std::string to_string() override;
+
+private:
+    std::string doctypeElements_;
+    std::string styleSheet_;
 
 };
 
