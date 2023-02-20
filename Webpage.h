@@ -16,7 +16,7 @@ protected:
                                                    "X-UA-Compatible\" content=\"IE=edge\">\n<meta name=\"viewport\" content=\"width=device-width,"
                                                    "initial - scale = 1.0\">\n"};
 
-    inline static std::string_view styleHeading_{ "\n<link rel=\"stylesheet\" href=\"css/style.css\">\n</head>\n\n" };
+    inline static std::string_view styleHeading_{ "\n<link rel=\"stylesheet\" href=\"style.css\">\n</head>\n\n" };
 };
 
 

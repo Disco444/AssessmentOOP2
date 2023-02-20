@@ -5,7 +5,10 @@
 
 class Element {
 
+public:
 
+
+private:
 
 };
 
